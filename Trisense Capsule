@@ -1,0 +1,40 @@
+🧪Trisense Capsule – Portable Multi-Parameter Urine Diagnostic System
+A compact, reusable capsule for fast urine-based disease screening
+
+Patent filed & under processing 
+
+📌 Overview
+
+The Trisense Capsule is a portable, low-cost, and reusable urine analysis device designed to detect multiple health conditions in a single test. The system integrates three chemically isolated sensing zones capable of identifying glucose (diabetes), albumin (kidney disorders), and infection-related markers. Each sensing region is separated to prevent cross-reaction and ensure reliable measurements.
+
+The capsule includes a smart moisture-based auto-wake system, an ESP32 microcontroller, an LMP91000 potentiostat, and a precision analog amplification stage to capture biochemical signals. Once processed, the data is transmitted wirelessly to a smartphone or laptop—no internet required.
+
+🎯 Key Features
+
+Multi-parameter urine testing in a single capsule
+
+Compact, lightweight, and ideal for portable diagnostics
+
+Moisture-triggered power management for ultra-low consumption
+
+ESP32-based system with wireless data transfer
+
+Integrated potentiostat for electrochemical sensing
+
+Easy cleaning and reusable design
+
+Suitable for home testing and rural health screening
+
+Patent filed & under processing
+
+🛠️ Project Includes
+
+Electronic schematic
+
+PCB design files
+
+ESP32 firmware
+
+Reagent zone layout concept
+
+Documentation & working principle
